@@ -28,7 +28,7 @@ const Welcome = () => {
 
     
 };
-  const handleSubmit = (e) => {
+  const handleSubmit = () => {
     
 
     
